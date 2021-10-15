@@ -477,7 +477,7 @@ section {
 .about .image {
   background: url("../img/me.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 500px;
+  min-height: 450px;
 }
 @media (max-width: 991px) {
   .about .image {
